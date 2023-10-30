@@ -11,24 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Department of Electronic Engineering, Tsinghua University, 2020~2024
-* M.S. 
+* B.E. in Electronic Information Science and Technology, 2020~2024
 
 Work experience
 ======
-* Summer 2023: Research Assistant
-  * HongKong University
-  * Duties included: Research on Multimodal LLMs
-  * Supervisor: Dr. Xihui Liu
 
   
 Skills
 ======
-* Linux
-* Python
-  * PyTorch
-  * Huggingface
-  * Pandas
+
 
 Publications
 ======
