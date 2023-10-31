@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/wln20/wln20.github.io/blob/master/files/CV-Luning%20Wang.pdf
     
   - title: "Guide"
     url: /markdown/
