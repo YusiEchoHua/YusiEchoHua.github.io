@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Luning / Site Title"
+title                    : "Wang Luning's Page"
 title_separator          : "-"
 name                     : &name "Wang Luning"
 description              : &description "An undergraduate student at EE Department, Tsinghua Univ."
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Wang Luning"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "stay simple, stay naive."
   location         : "Beijing, China"
-  employer         :
+  employer         : "Tsinghua University / ByteDance"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Luning-Wang-16" # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "wln20@mails.tsinghua.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Luning-Wang-16"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/wln20"
   google_plus      :
   keybase          :
   instagram        :
