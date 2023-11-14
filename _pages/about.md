@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Wang Luning from Hebei Province, China. I'm currently an undergraduate student at the Department of Electronics Engineering, Tsinghua University. 
+Hi! I'm Wang Luning from Hebei Province, China. I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. 
 
 Research
 ------
