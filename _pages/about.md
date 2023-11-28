@@ -22,8 +22,8 @@ Internship💻
 News🚀
 ------
 - [2023.11.28] 🔥🔥🔥 I've just launched a project, aiming to develop a multilingual benchmark for retrieval encoders in RAG!
-  - Github repository: https://github.com/wln20/Retrieval_QA
-  - 🤗Huggingface dataset: https://huggingface.co/datasets/lnwang/retrieval_qa
+  - Github repository: <a href='https://github.com/wln20/Retrieval_QA'>wln20/Retrieval_QA</a>
+  - Huggingface dataset: <a href='https://huggingface.co/datasets/lnwang/retrieval_qa'>lnwang/retrieval_qa</a>
     
-  I'm developing on this project actively with my friends, please give us a star✨ if you like it. Do not hesitate to reach out to me if you're interested!
+  This project would be actively developed after I finished my graduate application, please give us a star✨ if you like it. Do not hesitate to reach out to me if you're interested!
 
