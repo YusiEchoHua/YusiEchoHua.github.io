@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Wang Luning from Hebei Province, China. I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. 
+Hi! I'm Luning Wang from China, and I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. 
 
 Research📖
 ------
@@ -21,9 +21,10 @@ Internship💻
 
 News🚀
 ------
-- [2023.11.28] 🔥🔥🔥 I've just launched a project, aiming to develop a multilingual benchmark for retrieval encoders in RAG!
+- [2023.11.28] I've just launched a project, aiming to develop a multilingual QA-dataset utilizing the power of GPT. 
   - Github repository: <a href='https://github.com/wln20/Retrieval_QA'>wln20/Retrieval_QA</a>
   - Huggingface dataset: <a href='https://huggingface.co/datasets/lnwang/retrieval_qa'>lnwang/retrieval_qa</a>
+  
     
-  This project would be actively developed after I finished my graduate application, please give us a star✨ if you like it. Do not hesitate to reach out to me if you're interested!
+
 
