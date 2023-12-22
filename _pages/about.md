@@ -27,4 +27,4 @@ News🚀
   
     
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MGz7IyAo6Aq5C1YhqhV1cKtNKrQKJ9oFEVwELNdOc_U&cl=ffffff&w=a"></script>
