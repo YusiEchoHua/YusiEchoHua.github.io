@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Stay simple, stay naive."
   location         : "Beijing, China"
-  employer         : "Tsinghua University / ByteDance"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Tsinghua University"
+  pubmed           : 
+  googlescholar    : 
   email            : "wln20@mails.tsinghua.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Luning-Wang-16"
   uri              :
