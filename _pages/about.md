@@ -12,19 +12,20 @@ Hi! I'm Wang Luning from China, and I'm currently a senior student at the Depart
 
 📖 Research
 ------
-I joined Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group ([NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/)) in 2022.9. I mainly focused on a project related to object detection in 2022, and I devoted to the quantization algorithms of LLMs in 2023 (exactly after the birth of ChatGPT). Now I've just started my graduation project at NICS Lab, where I would continue to work on the Data-Efficient Quantization-Aware-Training(QAT) methods of LLMs.
+I joined Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group ([NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/)) in 09/2022. I mainly focused on a project related to object detection in 2022, and I devoted to the quantization algorithms of LLMs in 2023 (exactly after the birth of ChatGPT). Now I've just started my graduation project at NICS Lab, where I would continue to work on the Data-Efficient Quantization-Aware-Training(QAT) methods of LLMs.
 
 💻 Internship
 ------
-+ I worked as an RA during 2023.7~2023.8 at the Musketeers Foundation Institude of Data Science, HKU. My work mainly focused on the evaluation methods of LLMs.
-+ Now I'm working as an intern at ByteDance, Beijing. I'm working on the development of an appeal chatbot for TikTok.
++ 07/2023~08/2023, HKU Musketeers Foundation Institude of Data Science. <a href='https://datascience.hku.hk/'>[Website]</a>
++ 09/2023~01/2024, ByteDance. <a href='https://www.bytedance.com/'>[Website]</a>
++ ...
 
-🚀 News
+<!-- 🚀 News
 ------
 - [2023.9.4] I join ByteDance as an algorithm intern!
 - [2023.11.28] I develop a multilingual QA-dataset utilizing the power of ChatGPT. 
   - Github repository: <a href='https://github.com/wln20/Retrieval_QA'>wln20/Retrieval_QA</a>
-  - Huggingface dataset: <a href='https://huggingface.co/datasets/lnwang/retrieval_qa'>lnwang/retrieval_qa</a>
+  - Huggingface dataset: <a href='https://huggingface.co/datasets/lnwang/retrieval_qa'>lnwang/retrieval_qa</a> -->
   
     
 🌎 Visitors
