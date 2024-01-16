@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Wang Luning from China, and I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. 
+Hi! I'm Wang Luning from China, and I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. My research interests mainly focus on model compression and acceleration for large language models. I plan to study for a master's degree abroad after graduating from Tsinghua University.
 
 📖 Research
 ------
-I joined Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group ([NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/)) in 09/2022. I mainly focused on a project related to object detection in 2022, and I devoted to the quantization algorithms of LLMs in 2023 (exactly after the birth of ChatGPT). Now I've just started my graduation project at NICS Lab, where I would continue to work on the Data-Efficient Quantization-Aware-Training(QAT) methods of LLMs.
++ [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='https://nicsefc.ee.tsinghua.edu.cn/'>[Website]</a> 
 
 💻 Internship
 ------
-+ 07/2023~08/2023, HKU Musketeers Foundation Institude of Data Science. <a href='https://datascience.hku.hk/'>[Website]</a>
-+ 09/2023~01/2024, ByteDance. <a href='https://www.bytedance.com/'>[Website]</a>
-+ ...
++ [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
++ [09/2023~01/2024] Data-Tns, ByteDance. <a href='https://www.bytedance.com/'>[Website]</a>
 
 <!-- 🚀 News
 ------
@@ -30,7 +29,7 @@ I joined Nanoscale Integrated Circuits and System Lab, Energy Efficient Computin
     
 🌎 Visitors
 ------
-> I'm only trying this for fun 🤣
+> Only trying this for fun 🤣
 
 <!-- The 2D map -->
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MGz7IyAo6Aq5C1YhqhV1cKtNKrQKJ9oFEVwELNdOc_U&cl=ffffff&w=a"></script>
