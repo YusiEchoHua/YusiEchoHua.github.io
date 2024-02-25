@@ -31,6 +31,10 @@ Hi! I'm Wang Luning from China, and I'm currently a senior student at the Depart
 ------
 > Only trying this for fun 🤣
 
+<center>
+        Views：<span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span>? | Number of visitors：<span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>?
+</center>
+
 <!-- The 2D map -->
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MGz7IyAo6Aq5C1YhqhV1cKtNKrQKJ9oFEVwELNdOc_U&cl=ffffff&w=a"></script>
 
