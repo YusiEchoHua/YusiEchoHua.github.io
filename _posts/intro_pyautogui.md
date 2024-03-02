@@ -1,7 +1,7 @@
 ---
-title: 'A'
+title: 'A brief intro to pyautogui'
 date: 2022-05-02
-permalink: /posts/intro_pyautogui/
+permalink: /posts/2022/05/intro_pyautogui/
 tags:
   - python
   - pyautogui
