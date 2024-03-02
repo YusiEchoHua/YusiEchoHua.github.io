@@ -13,10 +13,10 @@ Hi! This is Luning Wang from China, and I'm currently a senior student at the De
 📖 Research
 ------
 + [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='https://nicsefc.ee.tsinghua.edu.cn/'>[Website]</a> 
++ [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
 
 💻 Internship
 ------
-+ [07/2023~08/2023] HKU-IDS. <a href='https://datascience.hku.hk/'>[Website]</a>
 + [09/2023~01/2024] Data-TnS, ByteDance. <a href='https://www.bytedance.com/'>[Website]</a>
 + [03/2024~06/2024] Infinigence AI. <a href='https://www.infini-ai.com/'>[Website]</a>
 
