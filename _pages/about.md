@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Wang Luning from China, and I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. My research interests mainly focus on model compression and acceleration for large language models. I plan to study for a master's degree abroad after graduating from Tsinghua University.
+Hi! This is Luning Wang from China, and I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. My research interests mainly focus on model compression and acceleration for large language models. I am applying to schools in the United States to study for a master's degree。 
 
 📖 Research
 ------
@@ -16,18 +16,17 @@ Hi! I'm Wang Luning from China, and I'm currently a senior student at the Depart
 
 💻 Internship
 ------
-+ [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
-+ [09/2023~01/2024] Data-Tns, ByteDance. <a href='https://www.bytedance.com/'>[Website]</a>
++ [07/2023~08/2023] HKU-IDS. <a href='https://datascience.hku.hk/'>[Website]</a>
++ [09/2023~01/2024] Data-TnS, ByteDance. <a href='https://www.bytedance.com/'>[Website]</a>
++ [03/2024~06/2024] Infinigence AI. <a href='https://www.infini-ai.com/'>[Website]</a>
 
-<!-- 🚀 News
+📝 Publications
 ------
-- [2023.9.4] I join ByteDance as an algorithm intern!
-- [2023.11.28] I develop a multilingual QA-dataset utilizing the power of ChatGPT. 
-  - Github repository: <a href='https://github.com/wln20/Retrieval_QA'>wln20/Retrieval_QA</a>
-  - Huggingface dataset: <a href='https://huggingface.co/datasets/lnwang/retrieval_qa'>lnwang/retrieval_qa</a> -->
++ [ENLSP NeurIPS Workshop 2023] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang. [<a href='https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM_MQ.pdf'>pdf</a>] [<a href='https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM-MQ-poster.png'>poster</a>] 
++ [Arxiv'24] **Evaluating Quantized Large Language Models**. Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang. <a href='https://arxiv.org/abs/2402.18158'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
   
     
-🌎 Visitors
+🌎 Visitors Map
 ------
 > Only trying this for fun 🤣
 
