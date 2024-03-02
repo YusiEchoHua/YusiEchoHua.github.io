@@ -12,25 +12,3 @@ author_profile: true
 
   **Abstract:** Post-training quantization (PTQ) has emerged as a promising technique to reduce the cost of large language models (LLMs). Specifically, PTQ can effectively mitigate memory consumption and reduce computational overhead in LLMs. To meet the requirements of both high efficiency and performance across diverse scenarios, a comprehensive evaluation of quantized LLMs is essential to guide the selection of quantization methods. This paper presents a thorough evaluation of these factors by evaluating the effect of PTQ on Weight, Activation, and KV Cache on 11 model families, including OPT, LLaMA2, Falcon, Bloomz, Mistral, ChatGLM, Vicuna, LongChat, StableLM, Gemma, and Mamba, with parameters ranging from 125M to 180B. The evaluation encompasses five types of tasks: basic NLP, emergent ability, trustworthiness, dialogue, and long-context tasks. Moreover, we also evaluate the state-of-the-art (SOTA) quantization methods to demonstrate their applicability. Based on the extensive experiments, we systematically summarize the effect of quantization, provide recommendations to apply quantization techniques, and point out future directions.
   
-
-
-<!--
-It's always a good way to read some surveys before diving into a new field.
-> The date at the end of each item shows the last time it has been updated, while "updating" means it's still being updated actively.
-
-+ General LLMs
-  + General Survey: [https://github.com/RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) (2023.11)   
-  + General Survey: [https://arxiv.org/abs/2402.06196](https://github.com/RUCAIBox/LLMSurvey) (2024.02)
- 
-+ Efficient LLMs
-  + LLM Acceleration: [https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList](https://github.com/RUCAIBox/LLMSurvey) (updating)
-  + LLM Compression: [https://arxiv.org/abs/2308.07633](https://github.com/RUCAIBox/LLMSurvey) (2023.9)
-
-+ Diffusion
-  + Diffusion Models: [https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/RUCAIBox/LLMSurvey) (updating)
-
-+ Multimodal
-  + General Survey: [https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/RUCAIBox/LLMSurvey) (updating)   
-  + Text-to-Image: [https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/RUCAIBox/LLMSurvey) (updating)
-  + Video Understanding: [https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/RUCAIBox/LLMSurvey) (updating)
--->
