@@ -16,7 +16,7 @@ It's always a good way to read some surveys before diving into a new field.
 General LLMs
 ------
 + LLMs Survey: [https://github.com/RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) (2023.11)   
-+ LLMs Survey: [https://arxiv.org/abs/2402.06196]([https://arxiv.org/abs/2402.06196) (2024.02)
++ LLMs Survey: [https://arxiv.org/abs/2402.06196](https://arxiv.org/abs/2402.06196) (2024.02)
 + LLMs Evaluation: [https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) (2023.11)
 
 
