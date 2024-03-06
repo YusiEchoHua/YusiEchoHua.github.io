@@ -22,6 +22,7 @@ General LLMs
 
 Efficient LLMs
 ------
++ Efficient LLM Survey: [https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) (updating)
 + LLM Acceleration: [https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList) (updating)
 + LLM Compression: [https://github.com/HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) (updating)
 
