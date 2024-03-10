@@ -22,7 +22,7 @@ I'm currently a senior student at the Department of Electronic Engineering, Tsin
 
 📝 Publications
 ------
-+ [ENLSP NeurIPS Workshop 2023] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang. [<a href='https://www.researchgate.net/profile/Luning-Wang-16/publication/376624532_LLM-MQ_Mixed-precision_Quantization_for_Efficient_LLM_Deployment/links/65818dd43c472d2e8e707515/LLM-MQ-Mixed-precision-Quantization-for-Efficient-LLM-Deployment.pdf'>pdf</a>] [<a href='https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM-MQ-poster.png'>poster</a>] 
++ [ENLSP NeurIPS Workshop 2023] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang. [<a href='https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM_MQ.pdf'>pdf</a>] [<a href='https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM-MQ-poster.png'>poster</a>] 
 + [Arxiv'24] **Evaluating Quantized Large Language Models**. Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang. <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
     
 🌎 Visitors Map
