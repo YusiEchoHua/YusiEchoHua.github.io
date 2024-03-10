@@ -10,7 +10,7 @@ tags:
   - Diffusion
 ---
 
-It's always a good way to read some surveys before diving into a new field.
+It's always a good way to read some surveys before diving into a new field. This list would be updated from time to time.
 > The date at the end of each item shows the last time it has been updated, while "updating" means it's still being updated actively now.
 
 General LLMs
@@ -18,6 +18,7 @@ General LLMs
 + LLMs Survey: [https://github.com/RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) (2023.11)   
 + LLMs Survey: [https://arxiv.org/abs/2402.06196](https://arxiv.org/abs/2402.06196) (2024.02)
 + LLMs Evaluation: [https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) (2023.11)
++ Long Context: [https://github.com/Strivin0311/long-llms-learning](https://github.com/Strivin0311/long-llms-learning) (updating)
 
 
 Efficient LLMs
