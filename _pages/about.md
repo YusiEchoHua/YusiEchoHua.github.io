@@ -17,8 +17,8 @@ I'm currently a senior student at the Department of Electronic Engineering, Tsin
 
 💻 Internship
 ------
-+ [09/2023~01/2024] Data-TnS, ByteDance. <a href='https://www.bytedance.com/'>[Website]</a>
-+ [03/2024~06/2024] Infinigence AI. <a href='https://www.infini-ai.com/'>[Website]</a>
++ [09/2023~01/2024] Bytedance Data-TnS, Algorithm intern. <a href='https://www.bytedance.com/'>[Website]</a>
++ [02/2024~06/2024] Infinigence AI, Research intern. <a href='https://www.infini-ai.com/'>[Website]</a>
 
 📝 Publications
 ------
