@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. And I'm going to attend University of Michigan (Ann Arbor) on 24-fall, where I would pursue a master's degree at the Department of Electrical and Computer Engineering.
+I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. And I'm going to attend the University of Michigan on 24-fall, where I would pursue a master's degree at the Department of Electrical and Computer Engineering.
 
 📖 Research
 ------
-My research interests for now mainly focus on model compression and acceleration for large language models.
+My past researches mainly focus on model compression and acceleration for large language models.
 + [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='https://nicsefc.ee.tsinghua.edu.cn/'>[Website]</a> 
 + [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
 
