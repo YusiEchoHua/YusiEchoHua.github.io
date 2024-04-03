@@ -4,14 +4,15 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about/t
   - /about.html
 ---
 
-I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. My research interests mainly focus on model compression and acceleration for large language models. I am applying to schools in the United States to study for a master's degree。 
+I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. And I'm going to attend University of Michigan (Ann Arbor) on 24-fall, where I would pursue a master's degree at the Department of Electrical and Computer Engineering.
 
 📖 Research
 ------
+My research interests for now mainly focus on model compression and acceleration for large language models.
 + [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='https://nicsefc.ee.tsinghua.edu.cn/'>[Website]</a> 
 + [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
 
