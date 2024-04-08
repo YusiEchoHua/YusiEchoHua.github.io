@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Luning's Page"
+title                    : "Yusi Hua's Page"
 title_separator          : "-"
-name                     : &name "Wang Luning"
-description              : &description "An undergraduate student at EE Department, Tsinghua Univ."
-url                      : https://wln20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yusi Hua"
+description              : &description "An undergraduate in Philosophy, Tsinghua Univ."
+url                      : https://yusiechohua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wln20/wln20.github.io"
+repository               : "YusiEchoHua/yusiechohua.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wang Luning"
+  name             : "Yusi Hua"
   avatar           : "profile.png"
-  bio              : "Stay simple, stay naive."
+  bio              : "Make Peace with Myself, Make Peace with the World."
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=kvTOYG8AAAAJ"
-  email            : "wangluning2@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Luning-Wang-16"
+  googlescholar    : # "https://scholar.google.com/citations?user=kvTOYG8AAAAJ"
+  email            : "echohua75@gmail.com"
+  researchgate     : # "https://www.researchgate.net/profile/Luning-Wang-16"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wln20"
+  github           : "EchoYusiHua"
   google_plus      :
   keybase          :
   instagram        :
