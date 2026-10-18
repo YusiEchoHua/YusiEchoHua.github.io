@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior student at the Department of Philosophy, Tsinghua University. 
+I did my Bachelor's Degree in Philosophy at Tsinghua University. I continued my Master's Degree in Theological Studies at Harvard Divinity School. Now I am a freelancer.
 
 📖 Research
 ------
